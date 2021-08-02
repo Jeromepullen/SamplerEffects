@@ -1,6 +1,8 @@
 # Sampler Effects
 
-The App allows users to Record a sound using the Device’s Microphone. It then Allows Users to Play the Recorded Sound back with six different Sound Modulations.
+iOS App using Swift that allows users to record a sound using the device’s microphone. It then allows users to play the recorded sound back with six different sound modulations.
+
+-The app uses code from Apple's AVFoundation API to record sounds from the microphone (AVAudioRecorder) and play recorded audio with effects (AVAudioPlayer, AVAudioEngine).
 
 ## Implementation
 Sampler Effects has two Scenes: 
@@ -11,14 +13,13 @@ Sampler Effects has two Scenes:
 
 *The App uses `UINavigationController` to navigate between these two scenes.*
 
-The application uses code from `AVFoundation` to record sounds from the microphone `(AVAudioRecorder)` and play recorded audio with effects `(AVAudioPlayer, AVAudioEngine)`.
 
 ## Sound modulations
-- Super Slow
-- Super Fast
-- Chipmunk
-- Darth Vader
-- Parrot (Echo effect)
+- Slow
+- Fast
+- High Pitch
+- Low Pitch
+- Echo
 - Reverb
 
 ## Requirements
