@@ -14,11 +14,11 @@ Sampler Effects has two Scenes:
 The application uses code from `AVFoundation` to record sounds from the microphone `(AVAudioRecorder)` and play recorded audio with effects `(AVAudioPlayer, AVAudioEngine)`.
 
 ## Sound modulations
-- Super Slow
-- Super Fast
-- Chipmunk
-- Darth Vader
-- Parrot (Echo effect)
+- Slow
+- Fast
+- High Pitch
+- Low Pitch
+- Echo
 - Reverb
 
 ## Requirements
