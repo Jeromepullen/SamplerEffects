@@ -1,9 +1,9 @@
 # Sampler Effects
 
-The App allows users to Record a sound using the Device’s Microphone. It then Allows Users to Play the Recorded Sound back with six different Sound Modulations.
+iOS App that allows users to record a sound using the device’s microphone. It then allows users to play the recorded sound back with six different sound modulations.
 
 ## Implementation
-Sampler Effects has two Scenes: 
+Sampler Effects has two scenes: 
 - **RecordSoundsViewController** : consists a record button with a microphone image.
 - **PlaySoundsViewController** : contains six buttons to play the recorded sound file with different effects related to the button image and a stop button at the bottom
 
