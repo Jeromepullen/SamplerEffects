@@ -1,4 +1,4 @@
-# Sampler Effects
+# Sampler Effects 
 
 iOS App using Swift that allows users to record a sound using the device’s microphone. It then allows users to play the recorded sound back with six different sound modulations.
 
