@@ -23,6 +23,3 @@ The application uses code from `AVFoundation` to record sounds from the micropho
 - Echo
 - Reverb
 
-## Requirements
-- Xcode 9+
-- Swift 4
